@@ -1,0 +1,21 @@
+backend
+========
+npm i express
+npm i dotenv
+npm i nodemon
+npm i mongoose
+npm i bcryptjs
+npm i colors
+npm i express-async-handler 
+npm i jsonwebtoken
+
+
+frontend
+=========
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm i react-router-dom
+npm i axios
+npm i @chakra-ui/icons 
+npm i react-scrollable-feed
+npm i react-lottie
+npm i socket.io-client
