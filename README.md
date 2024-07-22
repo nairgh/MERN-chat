@@ -13,12 +13,12 @@ Functionalities:
 
 Backend
 =======
-Execute the backend folder to serve the mongo db server
-The rest api's are provided
-Test the selected backend api's using postman
+Execute the backend folder to serve the mongo db server<br>
+The rest api's are provided<br>
+Test the selected backend api's using postman<br>
 
-provide the .env file with the mongo credentials and jwt secret
-run npm start to run the backend
+provide the .env file with the mongo credentials and jwt secret <br>
+run npm start to run the backend <br>
 
 Frontend
 ========
