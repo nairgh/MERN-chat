@@ -10,6 +10,7 @@ Functionalities:
   3. Real time typing indicator
   4. User Login/Register functionality
   5. Notification alerts on messaging
+  6. Socket-io client/server realtime messaging
 
 Backend
 =======
