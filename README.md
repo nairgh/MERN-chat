@@ -1,6 +1,7 @@
 ![chatWindow](https://github.com/user-attachments/assets/8a1faec5-657a-4d04-981e-a105640844ef)
 
-MERN Stack Chat application 
+MERN Stack Chat application
+===========================
 
 Functionalities:
 ===============
@@ -12,10 +13,12 @@ Functionalities:
 
 Backend
 =======
-Execute the backend folder to serve the mongo db server, the rest api's are provided
+Execute the backend folder to serve the mongo db server
+The rest api's are provided
 Test the selected backend api's using postman
 
 provide the .env file with the mongo credentials and jwt secret
+run npm start to run the backend
 
 Frontend
 ========
