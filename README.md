@@ -1,6 +1,7 @@
 ![chatWindow](https://github.com/user-attachments/assets/8a1faec5-657a-4d04-981e-a105640844ef)
 
-Simple chat application using MERN Stack
+MERN Stack Chat application 
+
 Functionalities:
 ===============
   1. Single chat window
