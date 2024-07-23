@@ -1,4 +1,7 @@
+![chat-page-login](https://github.com/user-attachments/assets/e75128e5-0d29-4e9d-807b-f8258d24b89e)
+
 ![chatWindow](https://github.com/user-attachments/assets/8a1faec5-657a-4d04-981e-a105640844ef)
+
 
 <a href = "https://letuscat.onrender.com/chats">Vist the LetusChat Page </a>
 
