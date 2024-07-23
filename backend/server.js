@@ -60,7 +60,7 @@ io.on("connection", (socket)=>{
 
 socket.on("join chat", (room) => {
     socket.join(room);
-    console.log("User Joined Room: " + room);
+    console.log("User Joined Chat Room: " + room);
   });
   socket.on("typing", (room) => socket.in(room).emit("typing"));
   socket.on("stop typing", (room) => socket.in(room).emit("stop typing"));
@@ -78,7 +78,7 @@ socket.on("join chat", (room) => {
   });
 
   socket.off("setup", () => {
-    console.log("USER DISCONNECTED");
+    console.log("User Disconnected");
     socket.leave(userData._id);
   });
 });
